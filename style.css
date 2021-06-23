@@ -23,6 +23,10 @@ h5,
 h6 {
   font-family: 'Raleway', sans-serif;
 }
+h6 a {
+  text-transform: uppercase;
+  color: #3b434a;
+}
 
 /*--------------------------------------------------------------
 # Back to top button
